@@ -1,0 +1,4 @@
+speedup/flexgen/flexgen/__pycache__/*
+speedup/flexgen/flexgen.egg-info/*
+speedup/infinigen/infinigen.egg-info/*
+speedup/infinigen/infinigen/__pycache__/*
